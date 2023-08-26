@@ -1,0 +1,14 @@
+{
+    "name": "Lrss3.SimplePolygonMaker.Editor.Tests",
+    "references": [
+        "Lrss3.SimplePolygonMaker.Editor",
+        "Lrss3.SimplePolygonMaker"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

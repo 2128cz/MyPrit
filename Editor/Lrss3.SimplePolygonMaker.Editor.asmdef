@@ -1,0 +1,10 @@
+{
+    "name": "Lrss3.SimplePolygonMaker.Editor",
+    "references": [
+      "Lrss3.SimplePolygonMaker"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

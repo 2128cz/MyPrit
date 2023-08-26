@@ -1,0 +1,11 @@
+{
+    "name": "Lrss3.SimplePolygonMaker.Tests",
+    "references": [
+        "Lrss3.SimplePolygonMaker"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
